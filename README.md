@@ -1,7 +1,8 @@
-<center><h1>BELT</h1></center>
-<center>Super-fast and easy data transforming with any interfaces</center>
-
-<center>Just connect Belt to your Factory</center>
+<div align="center">
+<h1>BELT</h1>
+<p>Super-fast and easy data transforming with any interfaces</p>
+<p>Just connect Belt to your Factory</p>
+</div>
 
 ## Methods
 - Transform data
